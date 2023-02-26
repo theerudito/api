@@ -1,0 +1,28 @@
+{
+  "naruto": [
+    {
+      "id": 1,
+      "name": "Naruto",
+      "clan": "Uzumaki",
+      "age": 12
+    },
+    {
+      "id": 2,
+      "name": "Hinata",
+      "clan": "Hyuga",
+      "age": 12
+    },
+    {
+      "id": 3,
+      "name": "Sasuke",
+      "clan": "Uchiha",
+      "age": 12
+    },
+    {
+      "id": 4,
+      "name": "Sakura",
+      "clan": "Haruno",
+      "age": 12
+    }
+  ]
+}
